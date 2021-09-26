@@ -3,7 +3,7 @@
 [2. Technical Information](https://github.com/XuJiaWen1998/CSE110Project1/blob/vs_code_branch/index.md#2-technical-information)  
 [3. Others](https://github.com/XuJiaWen1998/CSE110Project1/blob/vs_code_branch/index.md#3-others)  
 [4. Contact Information](https://github.com/XuJiaWen1998/CSE110Project1/blob/vs_code_branch/index.md#4-contact-information)    
-
+  
 ## 1. Basic Information
 ![image](Image.JPG)  
 __Name:__ Jiawen Xu  
@@ -17,7 +17,8 @@ __Skills__:
 - Data Structures and Algorithms
 - Digital Processing
 - FPGA design
-- Circuit Analysis    
+- Circuit Analysis  
+  
 __Things to learn__:  
 - [X] Advanced Algorithms
 - [X] RTL/FPGA design
@@ -25,7 +26,7 @@ __Things to learn__:
 - [ ] Web development
 - [ ] Machine Learning
 - [ ] Database Implementation/Application'    
-
+  
 ## 3. Others
 __Hobbies__: *gym, video games (RPG)*  
 __Favorit Game__: [Final FantasyXIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV)  
@@ -34,6 +35,7 @@ __Languages__:
 2. Mandarin 
 3. Cantonese
 4. Spanish (Still Learning)    
+  
 __Favorite book__: *Harry Potter*  
 __Personal Motto__:  
 > Rome wasn't built in a day
