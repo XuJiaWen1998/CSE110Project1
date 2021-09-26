@@ -29,7 +29,7 @@ __Things to learn__:
   
 ## 3. Others
 __Hobbies__: *gym, video games (RPG)*  
-__Favorit Game__: [Final FantasyXIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV)  
+__Favorite Game__: [Final FantasyXIV](https://en.wikipedia.org/wiki/Final_Fantasy_XIV)  
 __Languages__:  
 1. English
 2. Mandarin 
