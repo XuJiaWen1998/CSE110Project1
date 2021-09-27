@@ -1,3 +1,7 @@
 PID: A16529903
+<<<<<<< HEAD
 Name: Jiawen Xu
 PRIVATE.txt
+=======
+Name: Jiawen Xu
+>>>>>>> vs_code_branch
